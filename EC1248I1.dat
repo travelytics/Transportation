@@ -1,0 +1,159 @@
+GEOTYPE|ST|GEO_ID|GEO_TTL|FOOTID_GEO|SECTOR|NAICS2012|NAICS2012_TTL|FOOTID_NAICS|YEAR|ESTAB|ESTAB_F|RCPTOT|RCPTOT_F|PAYANN|PAYANN_F|PAYQTR1|PAYQTR1_F|EMP|EMP_F|ADMIN_PCT|ADMIN_PCT_F|IMPUT_PCT|IMPUT_PCT_F
+01|00|0100000US|United States||48|48-49|Transportation and warehousing|104|2012|213805||732974706||183874776||45277746||4316392||10.8||8.3|
+01|00|0100000US|United States||48|481|Air transportation||2012|4990||181180854||26222347||6902942||446215||1.6||5.4|
+01|00|0100000US|United States||48|4811|Scheduled air transportation||2012|2651||167058863||23584243||6284066||410417||.7||5.2|
+01|00|0100000US|United States||48|48111|Scheduled air transportation||2012|2651||167058863||23584243||6284066||410417||.7||5.2|
+01|00|0100000US|United States||48|481111|Scheduled passenger air transportation||2012|2257||159505630||22814592||6076994||399445||.4||5.2|
+01|00|0100000US|United States||48|481112|Scheduled freight air transportation||2012|394||7553233||769651||207072||10972||7.8||5.3|
+01|00|0100000US|United States||48|4812|Nonscheduled air transportation||2012|2339||14121991||2638104||618876||35798||12.0||7.6|
+01|00|0100000US|United States||48|48121|Nonscheduled air transportation||2012|2339||14121991||2638104||618876||35798||12.0||7.6|
+01|00|0100000US|United States||48|481211|Nonscheduled chartered passenger air transportation||2012|1615||11422837||2085699||507628||28085||9.4||8.6|
+01|00|0100000US|United States||48|481212|Nonscheduled chartered freight air transportation||2012|157||838130||160144||32205||2306||15.7||3.8|
+01|00|0100000US|United States||48|481219|Other nonscheduled air transportation||2012|567||1861024||392261||79043||5407||26.1||3.5|
+01|00|0100000US|United States||48|483|Water transportation||2012|1467||39528225||4680653||1205378||65549||2.7||10.2|
+01|00|0100000US|United States||48|4831|Deep sea, coastal, and great lakes water transportation||2012|926||31798560||3312243||866313||45076||2.2||7.5|
+01|00|0100000US|United States||48|48311|Deep sea, coastal, and great lakes water transportation||2012|926||31798560||3312243||866313||45076||2.2||7.5|
+01|00|0100000US|United States||48|483111|Deep sea freight transportation||2012|323||9566124||834438||200488||9557||3.1||8.2|
+01|00|0100000US|United States||48|483112|Deep sea passenger transportation||2012|40||15080386||915732||288671||14910||.3||2.3|
+01|00|0100000US|United States||48|483113|Coastal and great lakes freight transportation||2012|453||6757246||1465118||358148||18744||4.4||18.0|
+01|00|0100000US|United States||48|483114|Coastal and great lakes passenger transportation||2012|110||394804||96955||19006||1865||15.6||12.3|
+01|00|0100000US|United States||48|4832|Inland water transportation||2012|541||7729665||1368410||339065||20473||4.9||21.1|
+01|00|0100000US|United States||48|48321|Inland water transportation||2012|541||7729665||1368410||339065||20473||4.9||21.1|
+01|00|0100000US|United States||48|483211|Inland water freight transportation||2012|334||7344707||1282120||319568||18319||4.4||21.6|
+01|00|0100000US|United States||48|4832111|Inland waterways freight transportation (except towing)||2012|175||5853828||828369||211533||11074||4.2||19.4|
+01|00|0100000US|United States||48|4832112|Inland waterways towing transportation||2012|159||1490879||453751||108035||7245||5.0||30.4|
+01|00|0100000US|United States||48|483212|Inland water passenger transportation||2012|207||384958||86290||19497||2154||14.0||11.3|
+01|00|0100000US|United States||48|4832121|Inland waterways ferry transportation||2012|74||279139||53882||12568||1265||5.1||10.3|
+01|00|0100000US|United States||48|4832122|Other water passenger transportation (including water taxi)||2012|133||105819||32408||6929||889||37.5||13.9|
+01|00|0100000US|United States||48|484|Truck transportation||2012|111734||239778936||57964194||13655498||1362709||21.7||10.1|
+01|00|0100000US|United States||48|4841|General freight trucking||2012|63990||154650798||38231295||9152944||898042||19.0||9.2|
+01|00|0100000US|United States||48|48411|General freight trucking, local||2012|26392||23474663||6626478||1564354||175137||42.9||12.1|
+01|00|0100000US|United States||48|484110|General freight trucking, local||2012|26392||23474663||6626478||1564354||175137||42.9||12.1|
+01|00|0100000US|United States||48|4841101|Local general freight trucking without storage, truckload||2012|18178||16774507||4624915||1089785||120103||44.7||11.5|
+01|00|0100000US|United States||48|4841102|Local general freight trucking without storage, less than truckload||2012|6328||5174641||1540358||364856||43009||36.1||14.0|
+01|00|0100000US|United States||48|4841103|Local general freight trucking with storage, truckload||2012|1023||842300||273800||65718||6742||51.5||11.1|
+01|00|0100000US|United States||48|4841104|Local general freight trucking with storage, less than truckload||2012|863||683215||187405||43995||5283||40.3||14.0|
+01|00|0100000US|United States||48|48412|General freight trucking, long-distance||2012|37598||131176135||31604817||7588590||722905||14.7||8.7|
+01|00|0100000US|United States||48|484121|General freight trucking, long-distance, truckload||2012|29834||93669761||18940885||4539758||471820||18.9||10.2|
+01|00|0100000US|United States||48|484122|General freight trucking, long-distance, less than truckload||2012|7764||37506374||12663932||3048832||251085||4.3||4.9|
+01|00|0100000US|United States||48|4842|Specialized freight trucking||2012|47744||85128138||19732899||4502554||464667||26.6||11.8|
+01|00|0100000US|United States||48|48421|Used household and office goods moving||2012|7839||13693819||2974404||655299||90038||20.6||9.1|
+01|00|0100000US|United States||48|484210|Used household and office goods moving||2012|7839||13693819||2974404||655299||90038||20.6||9.1|
+01|00|0100000US|United States||48|4842101|Local used household and office goods moving, without storage||2012|3627||2077587||666528||142685||26452||41.9||9.8|
+01|00|0100000US|United States||48|4842102|Long-distance used household and office goods moving||2012|2549||9200727||1528169||345043||40192||15.4||8.0|
+01|00|0100000US|United States||48|4842103|Local used household and office goods moving, with storage||2012|1663||2415505||779707||167571||23394||22.0||12.8|
+01|00|0100000US|United States||48|48422|Specialized freight (except used goods) trucking, local||2012|30133||36499943||8974582||1998236||213420||37.3||11.3|
+01|00|0100000US|United States||48|484220|Specialized freight (except used goods) trucking, local||2012|30133||36499943||8974582||1998236||213420||37.3||11.3|
+01|00|0100000US|United States||48|4842201|Local hazardous materials trucking (except waste)||2012|2479||5680838||1498800||352369||28620||22.6||9.3|
+01|00|0100000US|United States||48|4842202|Local agricultural products trucking without storage||2012|7531||6188423||1408844||329302||40637||43.8||11.3|
+01|00|0100000US|United States||48|4842203|Dump trucking||2012|13844||14584799||3085566||645104||82234||39.9||11.3|
+01|00|0100000US|United States||48|4842204|Local specialized trucking without storage||2012|5945||9446511||2806450||628910||57986||38.1||12.2|
+01|00|0100000US|United States||48|4842205|Local, specialized freight (except used goods) trucking||2012|334||599372||174922||42551||3943||29.7||14.8|
+01|00|0100000US|United States||48|48423|Specialized freight (except used goods) trucking, long-distance||2012|9772||34934376||7783913||1849019||161209||17.7||13.3|
+01|00|0100000US|United States||48|484230|Specialized freight (except used goods) trucking, long-distance||2012|9772||34934376||7783913||1849019||161209||17.7||13.3|
+01|00|0100000US|United States||48|4842301|Hazardous materials trucking (except waste), long-distance||2012|1523||5920425||1445764||351134||28967||11.9||8.7|
+01|00|0100000US|United States||48|4842302|Agricultural products trucking, long-distance||2012|3172||4140394||882213||205355||22118||39.5||9.9|
+01|00|0100000US|United States||48|4842303|Other specialized trucking, long-distance||2012|5077||24873557||5455936||1292530||110124||15.5||15.0|
+01|00|0100000US|United States||48|485|Transit and ground passenger transportation||2012|18693||28358398||11155163||2754757||492848||18.6||13.3|
+01|00|0100000US|United States||48|4851|Urban transit systems||2012|943||3497183||1943610||475465||48087||4.9||4.6|
+01|00|0100000US|United States||48|48511|Urban transit systems||2012|943||3497183||1943610||475465||48087||4.9||4.6|
+01|00|0100000US|United States||48|485111|Mixed mode transit systems||2012|35||49477||33098||8710||761||2.5||8.7|
+01|00|0100000US|United States||48|485112|Commuter rail systems||2012|12||433279||178729||43129||2626||0||0|
+01|00|0100000US|United States||48|485113|Bus and other motor vehicle transit systems||2012|886||2974332||1727626||422825||44607||5.7||5.3|
+01|00|0100000US|United States||48|485119|Other urban transit systems||2012|10||40095||4157||801||93||.4||0|
+01|00|0100000US|United States||48|4852|Interurban and rural bus transportation||2012|570||1199032||472882||113538||17580||13.7||16.5|
+01|00|0100000US|United States||48|48521|Interurban and rural bus transportation||2012|570||1199032||472882||113538||17580||13.7||16.5|
+01|00|0100000US|United States||48|485210|Interurban and rural bus transportation||2012|570||1199032||472882||113538||17580||13.7||16.5|
+01|00|0100000US|United States||48|4853|Taxi and limousine service||2012|7446||6597293||1770946||422254||76220||30.0||13.3|
+01|00|0100000US|United States||48|48531|Taxi service||2012|3015||2424564||713700||174306||33721||26.4||11.3|
+01|00|0100000US|United States||48|485310|Taxi service||2012|3015||2424564||713700||174306||33721||26.4||11.3|
+01|00|0100000US|United States||48|48532|Limousine service||2012|4431||4172729||1057246||247948||42499||32.1||14.4|
+01|00|0100000US|United States||48|485320|Limousine service||2012|4431||4172729||1057246||247948||42499||32.1||14.4|
+01|00|0100000US|United States||48|4854|School and employee bus transportation||2012|4275||9333051||4181765||1080281||237366||11.4||17.5|
+01|00|0100000US|United States||48|48541|School and employee bus transportation||2012|4275||9333051||4181765||1080281||237366||11.4||17.5|
+01|00|0100000US|United States||48|485410|School and employee bus transportation||2012|4275||9333051||4181765||1080281||237366||11.4||17.5|
+01|00|0100000US|United States||48|4855|Charter bus industry||2012|1395||2960496||861389||198166||33655||24.9||10.2|
+01|00|0100000US|United States||48|48551|Charter bus industry||2012|1395||2960496||861389||198166||33655||24.9||10.2|
+01|00|0100000US|United States||48|485510|Charter bus industry||2012|1395||2960496||861389||198166||33655||24.9||10.2|
+01|00|0100000US|United States||48|4859|Other transit and ground passenger transportation||2012|4064||4771343||1924571||465053||79940||24.2||12.4|
+01|00|0100000US|United States||48|48599|Other transit and ground passenger transportation||2012|4064||4771343||1924571||465053||79940||24.2||12.4|
+01|00|0100000US|United States||48|485991|Special needs transportation||2012|2794||3626884||1531438||371876||62221||23.4||8.3|
+01|00|0100000US|United States||48|485999|All other transit and ground passenger transportation||2012|1270||1144459||393133||93177||17719||26.6||25.5|
+01|00|0100000US|United States||48|486|Pipeline transportation||2012|3451||37236548||5111079||1498160||48354||.3||1.2|
+01|00|0100000US|United States||48|4861|Pipeline transportation of crude oil||2012|650||6679588||1172909||350863||11125||0||.5|
+01|00|0100000US|United States||48|48611|Pipeline transportation of crude oil||2012|650||6679588||1172909||350863||11125||0||.5|
+01|00|0100000US|United States||48|486110|Pipeline transportation of crude oil||2012|650||6679588||1172909||350863||11125||0||.5|
+01|00|0100000US|United States||48|4862|Pipeline transportation of natural gas||2012|2193||23459508||3374780||982589||31584||.4||1.2|
+01|00|0100000US|United States||48|48621|Pipeline transportation of natural gas||2012|2193||23459508||3374780||982589||31584||.4||1.2|
+01|00|0100000US|United States||48|486210|Pipeline transportation of natural gas||2012|2193||23459508||3374780||982589||31584||.4||1.2|
+01|00|0100000US|United States||48|4869|Other pipeline transportation||2012|608||7097452||563390||164708||5645||.1||1.6|
+01|00|0100000US|United States||48|48691|Pipeline transportation of refined petroleum products||2012|564||6552909||530387||156341||5264||.1||1.6|
+01|00|0100000US|United States||48|486910|Pipeline transportation of refined petroleum products||2012|564||6552909||530387||156341||5264||.1||1.6|
+01|00|0100000US|United States||48|48699|All other pipeline transportation||2012|44||544543||33003||8367||381||.7||1.3|
+01|00|0100000US|United States||48|486990|All other pipeline transportation||2012|44||544543||33003||8367||381||.7||1.3|
+01|00|0100000US|United States||48|487|Scenic and sightseeing transportation||2012|2419||2897021||760643||156399||25560||20.1||13.4|
+01|00|0100000US|United States||48|4871|Scenic and sightseeing transportation, land||2012|560||818663||241263||48310||8851||19.9||10.9|
+01|00|0100000US|United States||48|48711|Scenic and sightseeing transportation, land||2012|560||818663||241263||48310||8851||19.9||10.9|
+01|00|0100000US|United States||48|487110|Scenic and sightseeing transportation, land||2012|560||818663||241263||48310||8851||19.9||10.9|
+01|00|0100000US|United States||48|4872|Scenic and sightseeing transportation, water||2012|1642||1569170||415194||84628||14107||20.6||17.3|
+01|00|0100000US|United States||48|48721|Scenic and sightseeing transportation, water||2012|1642||1569170||415194||84628||14107||20.6||17.3|
+01|00|0100000US|United States||48|487210|Scenic and sightseeing transportation, water||2012|1642||1569170||415194||84628||14107||20.6||17.3|
+01|00|0100000US|United States||48|4872101|Excursion and sightseeing boats (including dinner cruises)||2012|834||1300234||352962||72226||11587||18.4||17.5|
+01|00|0100000US|United States||48|4872102|Charter fishing and party fishing boats||2012|808||268936||62232||12402||2520||30.9||16.0|
+01|00|0100000US|United States||48|4879|Scenic and sightseeing transportation, other||2012|217||509188||104186||23461||2602||18.6||5.8|
+01|00|0100000US|United States||48|48799|Scenic and sightseeing transportation, other||2012|217||509188||104186||23461||2602||18.6||5.8|
+01|00|0100000US|United States||48|487990|Scenic and sightseeing transportation, other||2012|217||509188||104186||23461||2602||18.6||5.8|
+01|00|0100000US|United States||48|488|Support activities for transportation||2012|42498||104195357||28394656||6960329||616048||11.8||17.1|
+01|00|0100000US|United States||48|4881|Support activities for air transportation||2012|5914||22967832||6927909||1698272||167480||6.6||11.6|
+01|00|0100000US|United States||48|48811|Airport operations||2012|2226||7046856||2350516||575179||82173||10.0||16.2|
+01|00|0100000US|United States||48|488111|Air traffic control||2012|247||207261||98134||25308||1545||.1||12.8|
+01|00|0100000US|United States||48|488119|Other airport operations||2012|1979||6839595||2252382||549871||80628||10.3||16.3|
+01|00|0100000US|United States||48|48819|Other support activities for air transportation||2012|3688||15920976||4577393||1123093||85307||5.1||9.6|
+01|00|0100000US|United States||48|488190|Other support activities for air transportation||2012|3688||15920976||4577393||1123093||85307||5.1||9.6|
+01|00|0100000US|United States||48|4882|Support activities for rail transportation||2012|1252||4785302||1398963||341057||31065||7.3||9.5|
+01|00|0100000US|United States||48|48821|Support activities for rail transportation||2012|1252||4785302||1398963||341057||31065||7.3||9.5|
+01|00|0100000US|United States||48|488210|Support activities for rail transportation||2012|1252||4785302||1398963||341057||31065||7.3||9.5|
+01|00|0100000US|United States||48|4883|Support activities for water transportation||2012|2513||16256325||4981920||1260519||83718||9.3||9.4|
+01|00|0100000US|United States||48|48831|Port and harbor operations||2012|392||2617069||389710||97158||7110||16.8||2.3|
+01|00|0100000US|United States||48|488310|Port and harbor operations||2012|392||2617069||389710||97158||7110||16.8||2.3|
+01|00|0100000US|United States||48|48832|Marine cargo handling||2012|446||8411072||3055833||800483||51838||3.4||5.7|
+01|00|0100000US|United States||48|488320|Marine cargo handling||2012|446||8411072||3055833||800483||51838||3.4||5.7|
+01|00|0100000US|United States||48|48833|Navigational services to shipping||2012|850||3085548||814900||192951||12052||13.3||20.9|
+01|00|0100000US|United States||48|488330|Navigational services to shipping||2012|850||3085548||814900||192951||12052||13.3||20.9|
+01|00|0100000US|United States||48|48839|Other support activities for water transportation||2012|825||2142636||721477||169927||12718||17.9||15.7|
+01|00|0100000US|United States||48|488390|Other support activities for water transportation||2012|825||2142636||721477||169927||12718||17.9||15.7|
+01|00|0100000US|United States||48|4884|Support activities for road transportation||2012|10863||7493527||2524150||604742||87473||25.2||11.6|
+01|00|0100000US|United States||48|48841|Motor vehicle towing||2012|8379||5102344||1626731||399522||55544||29.9||10.4|
+01|00|0100000US|United States||48|488410|Motor vehicle towing||2012|8379||5102344||1626731||399522||55544||29.9||10.4|
+01|00|0100000US|United States||48|48849|Other support activities for road transportation||2012|2484||2391183||897419||205220||31929||15.1||14.2|
+01|00|0100000US|United States||48|488490|Other support activities for road transportation||2012|2484||2391183||897419||205220||31929||15.1||14.2|
+01|00|0100000US|United States||48|4885|Freight transportation arrangement||2012|20573||50866750||12123030||2952672||231678||12.9||23.8|
+01|00|0100000US|United States||48|48851|Freight transportation arrangement||2012|20573||50866750||12123030||2952672||231678||12.9||23.8|
+01|00|0100000US|United States||48|488510|Freight transportation arrangement||2012|20573||50866750||12123030||2952672||231678||12.9||23.8|
+01|00|0100000US|United States||48|4885101|Freight forwarding||2012|7498||21572100||4843951||1191926||91991||12.4||24.7|
+01|00|0100000US|United States||48|4885102|Arrangement of transportation of freight and cargo||2012|13075||29294650||7279079||1760746||139687||13.3||23.0|
+01|00|0100000US|United States||48|4889|Other support activities for transportation||2012|1383||1825621||438684||103067||14634||22.0||13.4|
+01|00|0100000US|United States||48|48899|Other support activities for transportation||2012|1383||1825621||438684||103067||14634||22.0||13.4|
+01|00|0100000US|United States||48|488991|Packing and crating||2012|1382||0|D|0|D|0|D|0|j|0|D|0|D
+01|00|0100000US|United States||48|488999|All other support activities for transportation||2012|1||0|D|0|D|0|D|0|a|0|D|0|D
+01|00|0100000US|United States||48|492|Couriers and messengers||2012|13667||71081137||21138266||5120077||534234||4.4||4.0|
+01|00|0100000US|United States||48|4921|Couriers and express delivery services||2012|9145||67503507||20248132||4907683||502828||2.5||3.6|
+01|00|0100000US|United States||48|49211|Couriers and express delivery services||2012|9145||67503507||20248132||4907683||502828||2.5||3.6|
+01|00|0100000US|United States||48|492110|Couriers and express delivery services||2012|9145||67503507||20248132||4907683||502828||2.5||3.6|
+01|00|0100000US|United States||48|4921101|Courier services (except by air)||2012|7462||0|D|0|D|0|D|0|m|0|D|0|D
+01|00|0100000US|United States||48|4921102|Air courier services||2012|1683||0|D|0|D|0|D|0|m|0|D|0|D
+01|00|0100000US|United States||48|4922|Local messengers and local delivery||2012|4522||3577630||890134||212394||31406||40.7||12.0|
+01|00|0100000US|United States||48|49221|Local messengers and local delivery||2012|4522||3577630||890134||212394||31406||40.7||12.0|
+01|00|0100000US|United States||48|492210|Local messengers and local delivery||2012|4522||3577630||890134||212394||31406||40.7||12.0|
+01|00|0100000US|United States||48|493|Warehousing and storage||2012|14444||28968899||28102800||6917875||714358||7.2||6.9|
+01|00|0100000US|United States||48|4931|Warehousing and storage||2012|14444||28968899||28102800||6917875||714358||7.2||6.9|
+01|00|0100000US|United States||48|49311|General warehousing and storage||2012|10230||17669536||23049002||5616571||599283||7.9||8.3|
+01|00|0100000US|United States||48|493110|General warehousing and storage||2012|10230||17669536||23049002||5616571||599283||7.9||8.3|
+01|00|0100000US|United States||48|49312|Refrigerated warehousing and storage||2012|1178||4141640||1768908||436780||42876||6.9||3.3|
+01|00|0100000US|United States||48|493120|Refrigerated warehousing and storage||2012|1178||4141640||1768908||436780||42876||6.9||3.3|
+01|00|0100000US|United States||48|49313|Farm product warehousing and storage||2012|528||783001||207315||51946||4971||14.6||12.4|
+01|00|0100000US|United States||48|493130|Farm product warehousing and storage||2012|528||783001||207315||51946||4971||14.6||12.4|
+01|00|0100000US|United States||48|49319|Other warehousing and storage||2012|2508||6374722||3077575||812578||67228||4.4||4.5|
+01|00|0100000US|United States||48|493190|Other warehousing and storage||2012|2508||6374722||3077575||812578||67228||4.4||4.5|
+01|00|0100000US|United States||48|4931901|Household goods warehousing and storage||2012|456||171952||913447||222981||26894||17.3||13.9|
+01|00|0100000US|United States||48|4931902|Specialized goods warehousing and storage||2012|2052||6202770||2164128||589597||40334||4.1||4.3|
